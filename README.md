@@ -1,7 +1,8 @@
 # Login-Helper
-Criação de uma tela de login fictícia .
+Desenvolvimento de tela com um formulário para login, realizado no curso do Luis Antonio De Souza Silva.
 
-Tecnologias utilizadas:
-HTML5 
-CSS3
-JavaScript
+-  Tecnologias Utilizadas 
+-  HTML5
+-  CSS3
+-  JavaScript 
+
